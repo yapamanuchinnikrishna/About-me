@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IU/giphy.gif" width="29px" alt="wave"/>
   
-  <h1>Hey, I'm Yapamanu Chinni Krishna! 👨‍💻</h1>
+  <h1>Hey, I'm Yapamanu Chinni Krishna! </h1>
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Building+Scalable+Solutions;Data+Structures+%26+Algorithms;Full-Stack+Developer;AI%2FML+Enthusiast" alt="Typing SVG" /></a>
 </div>
@@ -18,7 +18,7 @@
 
 <!-- SECTION B: ABOUT ME -->
 <div align="center">
-  <h2>🚀 About Me</h2>
+  <h2> About Me</h2>
 </div>
 
 <p align="left">
@@ -27,12 +27,12 @@
 
 <div align="left">
   
-  ⚡ <strong>Quick Facts About Me:</strong>
+   <strong>Quick Facts About Me:</strong>
   - 🎓 Fresher with solid fundamentals in DSA and System Design
   - 💻 Full-stack developer passionate about writing clean, maintainable code
-  - 🌱 Constantly learning and exploring AI/ML, AWS, and cutting-edge technologies
+  -  Constantly learning and exploring AI/ML, AWS, and cutting-edge technologies
   - 🎯 Committed to contributing to open-source projects and building impactful solutions
-  - 🔧 Problem solver who enjoys optimizing algorithms and improving performance
+  -  Problem solver who enjoys optimizing algorithms and improving performance
   
 </div>
 
