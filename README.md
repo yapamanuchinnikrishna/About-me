@@ -9,9 +9,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IU/giphy.gif" width="29px" alt="wave"/>
   
-  <h1>Hey, I'm Yapamanu Chinni Krishna!</h1>
+  <h1>Hey, I'm Yapamanu Chinni Krishna! 👨‍💻</h1>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Passionate+Developer+%26+Learner;Building+Tomorrow's+Solutions;DSA+%26+Python+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Building+Scalable+Solutions;Data+Structures+%26+Algorithms;Full-Stack+Developer;AI%2FML+Enthusiast" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -22,17 +22,17 @@
 </div>
 
 <p align="left">
-  I'm a passionate <strong>Software Development Engineer</strong> and a fresher in the tech industry, eager to make an impact through innovative solutions. With a strong foundation in Python, DSA, and full-stack development, I'm committed to continuous learning and building scalable applications. I love sharing knowledge through content creation and connecting with the developer community.
+  I'm a passionate <strong>Software Development Engineer</strong> with a fresh perspective and strong technical foundation. Dedicated to writing clean, efficient code and solving complex problems using Data Structures and Algorithms. I'm enthusiastic about building scalable applications, exploring AI/ML, and leveraging cloud technologies to create impactful solutions.
 </p>
 
 <div align="left">
   
   ⚡ <strong>Quick Facts About Me:</strong>
-  - 🎓 Fresher with strong foundations in DSA and System Design
-  - 💻 Full-stack developer passionate about clean, efficient code
-  - 🎬 Content creator sharing dev insights on YouTube, Medium, and Instagram
-  - 🌱 Constantly learning and exploring AI/ML, AWS, and modern technologies
-  - 🎯 Goal: Contribute to open source and build impactful projects
+  - 🎓 Fresher with solid fundamentals in DSA and System Design
+  - 💻 Full-stack developer passionate about writing clean, maintainable code
+  - 🌱 Constantly learning and exploring AI/ML, AWS, and cutting-edge technologies
+  - 🎯 Committed to contributing to open-source projects and building impactful solutions
+  - 🔧 Problem solver who enjoys optimizing algorithms and improving performance
   
 </div>
 
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </div>
 
-### **Specializations**
+### **Specializations & Tools**
 <div align="center">
   <img src="https://img.shields.io/badge/DSA-%23FF6B6B.svg?style=for-the-badge&logoColor=white" alt="DSA"/>
   <img src="https://img.shields.io/badge/AI%2FML-%23FF6B6B.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
@@ -75,17 +75,14 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yapamanu-chinnikrishna-ab1b152a5/">
+  <a href="https://www.linkedin.com/in/yapamanu-chinnikrishna-ab1b152a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/_na__ni.45?igsh=MThtdjJqM3FvYXA4bA==">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&label=520%20Followers" alt="Instagram"/>
+  <a href="https://www.instagram.com/_na__ni.45?igsh=MThtdjJqM3FvYXA4bA==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-520%20Followers-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://github.com/yapamanuchinnikrishna">
+  <a href="https://github.com/yapamanuchinnikrishna" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
@@ -118,7 +115,7 @@
 
 ---
 
-<!-- SECTION G: ACTIVITY GRAPH -->
+<!-- SECTION G: CONTRIBUTION GRAPH -->
 <div align="center">
   <h2>📈 Contribution Graph</h2>
 </div>
@@ -133,22 +130,18 @@
 <div align="center">
   <h2>💌 Let's Connect & Collaborate</h2>
   
-  <p><i>I'm always interested in hearing about new projects, opportunities, and collaborations.</i></p>
+  <p><i>I'm always open to exciting opportunities, collaborations, and new challenges.</i></p>
   
   <p>
-    <a href="https://www.linkedin.com/in/yapamanu-chinnikrishna-ab1b152a5/">
+    <a href="https://www.linkedin.com/in/yapamanu-chinnikrishna-ab1b152a5/" target="_blank">
       <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect"/>
     </a>
   </p>
   
-  <p><strong>⭐ If you find my work valuable, please consider starring my repositories!</strong></p>
+  <p><strong>⭐ If you find my repositories valuable, please consider starring them!</strong></p>
   
   <p>
-    <i>Crafting code, one commit at a time. Let's build something amazing together! 🚀</i>
-  </p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=yapamanuchinnikrishna&color=0e75b6" alt="Visitors" />
+    <i>Crafting scalable solutions through clean code and continuous learning. Let's build something amazing together! 🚀</i>
   </p>
 </div>
 
@@ -156,4 +149,5 @@
 
 <div align="center">
   <p><strong>Made with ❤️ by Yapamanu Chinni Krishna</strong></p>
+  <p>Last Updated: May 2026</p>
 </div>
